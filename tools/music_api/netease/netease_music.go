@@ -14,7 +14,7 @@ import (
 	"os"
 	"strings"
 
-	"yato/code/api/tool"
+	"github.com/zyato/personal/tools/music_api/tool"
 )
 
 const musicURL = `https://api.xingzhige.com/API/NetEase_CloudMusic_new`
