@@ -1,3 +1,8 @@
 .idea
 ignore/
 .DS_Store
+.env
+.netdisk_file_rename_state.json
+.netdisk_file_rename_state.json.lock
+netdisk_rename_audit.jsonl
+.workbuddy
