@@ -5,4 +5,5 @@ ignore/
 .netdisk_file_rename_state.json
 .netdisk_file_rename_state.json.lock
 netdisk_rename_audit.jsonl
+.local_file_rename/
 .workbuddy
